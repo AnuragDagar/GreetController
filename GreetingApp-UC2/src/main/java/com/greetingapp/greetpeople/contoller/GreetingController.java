@@ -27,17 +27,13 @@ public class GreetingController {
             @RequestParam(required = false) String lastName) {
         return greetingService.createGreeting(firstName, lastName);
     }
-}
-
-    @GetMapping
-    public List<Greeting> getAllGreetings() {
-        return greetingService.getAllGreetings();
-    }
-
- 
+<<<<<<< HEAD:GreetingApp-master/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java
+=======
 
 
-
+<<<<<<<< HEAD:GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java
+>>>>>>> UC2:GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java
+========
     @GetMapping("/{id}")
     public Optional<Greeting> getGreetingById(@PathVariable Long id) {
         return greetingService.getGreetingById(id);
@@ -46,6 +42,9 @@ public class GreetingController {
     public Greeting updateGreeting(@PathVariable Long id, @RequestBody Greeting greeting) {
         return greetingService.updateGreeting(id, greeting);
     }
+
+
+>>>>>>>> UC3:GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java
 }
 
- 
+
