@@ -27,6 +27,11 @@ public class GreetingController {
             @RequestParam(required = false) String lastName) {
         return greetingService.createGreeting(firstName, lastName);
     }
+<<<<<<< HEAD:GreetingApp-master/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java
+=======
+
+
+>>>>>>> UC2:GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java
 }
 
 

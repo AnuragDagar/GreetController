@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c948664c-7e88-4ed8-94b2-25eff2b427d8" name="Changes" comment="" />
+    <list default="true" id="5b5e69a7-39ee-41a8-bb06-81212051b50a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
-  <component name="ProjectId" id="2toUITj4A7dXD4ZFHcanANkXmyL" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tsxJwd4LQHeEOXeOXgmDmLYd0J" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,8 +29,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "UC1",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Anurag Dagar/OneDrive/Desktop/GreetController",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,12 +52,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c948664c-7e88-4ed8-94b2-25eff2b427d8" name="Changes" comment="" />
-      <created>1741017840704</created>
+      <changelist id="5b5e69a7-39ee-41a8-bb06-81212051b50a" name="Changes" comment="" />
+      <created>1741154516780</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741017840704</updated>
-      <workItem from="1741017841938" duration="1110000" />
+      <updated>1741154516780</updated>
+      <workItem from="1741154519001" duration="702000" />
     </task>
     <servers />
   </component>
