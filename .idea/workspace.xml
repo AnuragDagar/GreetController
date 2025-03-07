@@ -4,22 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b5e69a7-39ee-41a8-bb06-81212051b50a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/GreetingAppApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/model/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/repository/GreetingRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/service/GreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GreetingApp-UC3/src/test/java/com/greetingapp/greetpeople/GreetingAppApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java" afterDir="false" />
+    <list default="true" id="e676b6bd-78db-4054-9fdf-8ddf1910c38a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/GreetingAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/model/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/repository/GreetingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/main/java/com/greetingapp/greetpeople/service/GreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC2/src/test/java/com/greetingapp/greetpeople/GreetingAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/GreetingAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/contoller/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/model/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/repository/GreetingRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/src/main/java/com/greetingapp/greetpeople/service/GreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreetingApp-UC3/src/test/java/com/greetingapp/greetpeople/GreetingAppApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +45,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2tsxJwd4LQHeEOXeOXgmDmLYd0J" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2tzH0E1WxPodHoKStNE1dObqIt1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,13 +57,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "UC12",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Anurag Dagar/OneDrive/Desktop/GreetController",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -58,20 +66,20 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5b5e69a7-39ee-41a8-bb06-81212051b50a" name="Changes" comment="" />
-      <created>1741154516780</created>
+      <changelist id="e676b6bd-78db-4054-9fdf-8ddf1910c38a" name="Changes" comment="" />
+      <created>1741347761149</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741154516780</updated>
-      <workItem from="1741154519001" duration="1659000" />
+      <updated>1741347761149</updated>
+      <workItem from="1741347762903" duration="9000" />
     </task>
     <servers />
   </component>
